@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif !important; 
+    max-width: 900px !important;
+    margin: 0 auto !important; 
+    background-color: rgb(247, 242, 234) !important;
+}
+
+header div blockquote{
+    background-color: rgb(12, 79, 127) !important;
+    height: 35px;
+}
+
+.text-blockquote{
+    color: white !important;
+    font-size:smaller !important;
+    padding-left: 30% !important;
+    padding-top:5px;
+}
+
+nav{
+    width: 100% !important; 
+    height: 280px !important;
+    background-color:rgb(247, 242, 234) !important;
+    padding-top: 18px !important;
+}
+
+nav div ul li{
+    padding: 20px 20px !important;
+}
+
+nav div ul li:hover{
+    background-color: rgb(222, 202, 176) !important;
+}
+
+.logo{
+    padding-left: 35% !important;
+    padding-top: 0% !important;
+}
+
+.text-nav{
+    color: rgb(40, 25, 8) !important;
+}
+
+h2{
+    padding-top: 70px !important;
+}
+
+section div{
+    padding-top: 10px !important;
+    padding:18px 20px !important;
+}
+
+.img-cards{
+    width: 246px !important;
+    height: 246px !important;
+}
+
+footer{
+    background-color: rgb(12, 79, 127) !important;
+   margin-top: 10%;
+
+}
+
+.text-section4{ 
+    color: white;
+    padding-top: 1%;
+}  

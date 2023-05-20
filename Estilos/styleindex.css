@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif !important; 
+    max-width: 900px !important;
+    margin: 0 auto !important; 
+    background-color: rgb(247, 242, 234) !important;
+}
+
+header div blockquote{
+    background-color: rgb(12, 79, 127) !important;
+    height: 35px;
+}
+
+.text-blockquote{
+    color: white !important;
+    font-size:smaller !important;
+    padding-left: 30% !important;
+    padding-top:5px;
+}
+
+nav{
+    width: 100% !important; 
+    height: 180px !important;
+    background-color:rgb(247, 242, 234) !important;
+    padding-top: 18px !important;
+}
+
+nav div ul li{
+    padding: 25px 30px !important;
+}
+
+nav div ul li:hover{
+    background-color: rgb(222, 202, 176) !important;
+}
+
+.logo{
+    padding-left: 0% !important;
+    padding-top: 0% !important;
+}
+
+.text-nav{
+    color: rgb(40, 25, 8) !important;
+    text-align: center;
+}
+
+.section1{
+    background-color:rgb(247, 242, 234) !important;
+    max-width: 900px !important;
+    padding: 0% !important;
+    height: 243px !important;
+}
+
+.section2{
+    background-color: rgb(12, 79, 127) !important;
+    max-width: 900px !important;
+    height: 320px !important;
+    margin: 0 auto !important; 
+}
+
+.text-section2{
+    color: white !important;
+    padding-top: 7.5% !;
+}
+
+.img-section2{
+    padding-left: 0%;
+    padding-top: 0%;
+}
+
+.section3{
+    background-color: rgb(163, 225, 246) !important;
+    max-width: 900px !important;
+    height: 320px !important;
+    margin: 0 auto !important; 
+}
+
+.text-section3{ 
+    color: rgb(12, 79, 127) !important;
+    padding-top: 7.5%;
+}
+   
+.img-section3{
+    padding-right: 0%;
+        }
+
+.text-section4{ 
+    color: white;
+    padding-top: 1%;
+}  
+
+.img-art{
+    max-width: 100%;
+}
+
+.texto-art{
+    width: 740px;
+    vertical-align: top;
+}
+
+form{
+    padding-top: 70px;
+    padding-left: 30px;
+}
+
+
+footer{
+    background-color: rgb(12, 79, 127) !important;
+   margin-top: 10%;
+
+}
